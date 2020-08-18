@@ -2,6 +2,18 @@ body {
     background-color: black;
 }
 
+a:link {
+    color: hotpink;
+  }
+
+a:visited {
+    color: blueviolet;
+  }
+
+a:hover {
+    color: greenyellow;
+  }
+
   h1 {
     text-align: center;
     font-size:50px;
